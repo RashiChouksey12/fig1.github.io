@@ -114,10 +114,11 @@ margin-right: 20%;
 }
 #tech{
   background-color: #FFF;
+  padding-bottom: 50px;
 }
 
 .heading h2{
-  margin-top: 100px;
+  padding-top: 8rem;
   text-align: center;
   color: #18191F;
   font-weight: 800;
@@ -135,6 +136,11 @@ margin-right: 20%;
   line-height: 32px;
   
 }
+.active{
+  color: #27AE60;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #27AE60;
+}
 .lists ul{
   display: flex;
   justify-content: space-between;
@@ -145,14 +151,17 @@ margin-right: 20%;
   font-weight: 600;
   font-style: normal;
   line-height: 32px;
+  border-bottom: 1px solid #D7D7D7;
+  padding-bottom: 5px;
 }
 .icons{
   margin: 0px 125px ;
+
 }
 .mid{
   background-color: #80BF43;
   height: 350px;
-  margin-top: 100px;
+  
 }
 .mid div h1{
   position:absolute;
@@ -176,6 +185,7 @@ margin-right: 20%;
 }
 .sec-grn p{
   text-align:justify;
+
   margin: 10px 15px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
@@ -184,7 +194,7 @@ margin-right: 20%;
   margin-top: 120px;
   background-color: #fff;
   line-height: 1.5;
-  width: 400px;
+  width: 500px;
 
 }
 
@@ -414,6 +424,7 @@ color: #000;
 }
 
 .exper-div h2{
+  padding-top: 25px;
   font-weight: 700;
   font-size: 48px;
   line-height: 60px;
